@@ -1,1 +1,11 @@
-Y0hYBwUMK19YPQESOkUrChYIPhFyRElBLxAMAQsTdEU1KDc1CzdyRElBKgALCl5BDisdEQ0FLzUKBg4ELRFyYwsUOhUNHScJLxE6BhxJbDYbGw0ROkVQSlVIbExyY0lMbgsZBAFbbjEdGhBBHQYKABQVbkZKY0lMbgQNHQwOPF9YJCUyGiAqY0lMbgEdGgdbbiU2DBwIKgQoGwsLKwYMY24OOxEIHBAiJgQMKwsZZkcrChYIPhFYQUdTZ0dRYwAAw==
+-- name: Test Script
+-- author: MASTER
+-- desc: @NexidaProject
+
+outputChatBox("Script (#1)")
+
+-- name: Test Script #2
+-- author: MASTER
+-- desc: @NexidaProject
+
+outputChatBox("Script (#2)")
